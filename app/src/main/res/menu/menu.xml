@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_like"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="좋아요"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_main"
+        android:icon="@drawable/ic_playlist_24"
+        android:title="전체 목록"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search_24"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+</menu>
