@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎧MP3 Player&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎧MP3%20Player&fontSize=55)
 
 ● Summary
 ---------------------------
