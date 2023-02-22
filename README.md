@@ -18,7 +18,7 @@ Kotlin과 Android Studio를 활용한 MP3Player 제작
 
 ● Development Period
 ----------------
-2022년 11월 14일(월) ~ 현재 개발 진행 중
+2022년 11월 16일(수) ~ 2022년 11월 17일(목)
 
 
 ● Fucntion Summary and Information
